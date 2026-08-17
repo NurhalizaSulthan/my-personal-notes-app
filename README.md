@@ -2,7 +2,7 @@
 
 Aplikasi catatan pribadi berbasis **React** yang memungkinkan pengguna untuk membuat, mencari, mengarsipkan, dan menghapus catatan dengan mudah.
 
-Project ini dibuat sebagai **Proyek Akhir** pada pembelajaran **Belajar Membuat Front-End Web untuk Pemula** di Dicoding.
+Project ini dibuat sebagai **Proyek Akhir** pada pembelajaran **Belajar Membuat Aplikasi Web dengan React** di Dicoding.
 
 ## 🚀 Demo
 
